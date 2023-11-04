@@ -17,7 +17,7 @@ defineEmits<{
     <button
       class="text-red-400 hover:text-red-500 transition-colors"
       @click="$emit('cancel')">
-      Cancel 😲
+      Cancel 🤐
     </button>
   </div>
 </template>
