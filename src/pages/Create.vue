@@ -115,7 +115,7 @@ watchEffect(() => {
     <h1 class="text-2xl font-medium">Your room is ready.</h1>
 
     <p class="text-lg">
-      Send the link below to your peer so they can join you!
+      Send the below Link to your peer so they can Join you!
     </p>
 
     <p class="text-blue-400">
@@ -138,13 +138,13 @@ watchEffect(() => {
           type="button"
           class="bg-red-400 hover:bg-red-500 flex-1"
           @click="decline(queue[0] as Request)">
-          Decline
+          Decline ❌
         </Button>
         <Button
           type="button"
           @click="accept(queue[0] as Request)"
           class="flex-1">
-          Accept
+          Accept ✅
         </Button>
       </div>
     </div>
