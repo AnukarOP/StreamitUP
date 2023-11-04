@@ -14,6 +14,8 @@ Once you have opened it on your browser, you can create a room, choose a usernam
 
 Screensharing is optional, you may start streaming at any time, stop streaming, change the window/screen that you're sharing. Audio capture may not be available, depending on browser.
 
+❗ **Note** : ```If in Case Your Mobile browser, Says- "The Screen Capture is not supported by your browser" ! You need not to worry about this, but you can Try *Edge* or Any Screensharing supported browser which is compatible on your Device.```
+
 ## 💖 Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **Greatly Appreciated**.
