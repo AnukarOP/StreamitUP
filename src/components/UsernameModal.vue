@@ -44,7 +44,7 @@ function submit() {
     </div>
 
     <div className="text-right">
-      <Button type="submit" class="w-full sm:w-min">Confirm 🚀</Button>
+      <Button type="submit" class="w-full sm:w-min">🚀</Button>
     </div>
   </form>
 </template>
