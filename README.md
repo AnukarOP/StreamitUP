@@ -1,12 +1,30 @@
-# StreamitUP 🚀
+# [StreamitUP 🚀](https://streamitup.vercel.app/)
 
 Peer-2-peer screensharing and chat in the browser...
 
-## 💎 Introduction
+## 💎 Introduction :
 
 Backed by no server, runs entirely in the browser to chat and screenshare with a peer. It supports both mobile and desktop (screen capture may not be available on mobile). I Made this app Just to try out Vue 3.
 
-## 🤔 How to use
+## 💎Features :
+
+   
+                    (1): It has Peer-2-Peer Screensharing option, You can seamlessly share your real time Screen to other 
+                         Person ! I tried to Maintain the Quality of Sharing :) and Optimized the chat speed to good level.
+
+                    (2): You can Create Unlimited Rooms !!
+
+                    (3): One of the Most Demanding and Unique Feature is, You Need not to Create Any type of Accounts to Use StreamitUP ! 
+                         In Short This is Account-less !!
+              
+                    (4): Easy Pairing between Host-2-User :p
+
+                    (5): User friendly UI, I tried to Make it Simpler and Easy to use!!
+
+                    (6): Responsive Layout, Compatible on any devices you use,
+
+
+## 🤔 How to use :
 
 The app is available [👉🏻here👈🏻](https://streamitup.vercel.app/).
 
@@ -16,7 +34,7 @@ Screensharing is optional, you may start streaming at any time, stop streaming, 
 
 ❗ **Note** : ```If in Case Your Mobile browser, Says- "The Screen Capture is not supported by your browser" ! You need not to worry about this, but you can Try *Edge* or Any Screensharing supported browser which is compatible on your Device.```
 
-## 💖 Contributing
+## 💖 Contributing :
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **Greatly Appreciated**.
 
@@ -25,12 +43,13 @@ Contributions are what make the open source community such an amazing place to l
 
 <a href="bitcoin:1LxJFtXxVPboq12eYLTXNGaZtM1Yu9Yo7">![Bitcoin Donate Button](https://www.drupal.org/files/project-images/bitcoindonate.png)</a> Donate Here 👉🏻`1LxJFtXxVPboq12eYLTXNGaZtM1Yu9Yo7`
 
-## 📱 Contact
+## 📱 Contact :
+
 🚀 Telegram : [AnukarOP](telegram.me/AnukarOP)
 
 Project Link: [StreamitUP 🚀](https://github.com/AnukarOP/StreamitUP)
 
-## ⭐ Credits
+## ⭐ Credits :
 
 This project Mainly uses Vue 3. || Created by [AnukarOP](https://github.com/AnukarOP)
 
