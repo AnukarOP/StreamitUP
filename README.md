@@ -9,19 +9,19 @@ Backed by no server, runs entirely in the browser to chat and screenshare with a
 ## 💎Features :
 
    
-                    (1): It has Peer-2-Peer Screensharing option, You can seamlessly share your real time Screen to other 
-                         Person ! I tried to Maintain the Quality of Sharing :) and Optimized the chat speed to good level.
+(1): It has Peer-2-Peer Screensharing option, You can seamlessly share your real time Screen to other 
+     Person ! I tried to Maintain the Quality of Sharing :) and Optimized the chat speed to good level.
 
-                    (2): You can Create Unlimited Rooms !!
+(2): You can Create Unlimited Rooms !!
 
-                    (3): One of the Most Demanding and Unique Feature is, You Need not to Create Any type of Accounts to Use StreamitUP ! 
-                         In Short This is Account-less !!
+(3): One of the Most Demanding and Unique Feature is, You Need not to Create Any type of Accounts to Use StreamitUP ! 
+     In Short This is Account-less !!
               
-                    (4): Easy Pairing between Host-2-User :p
+(4): Easy Pairing between Host-2-User :p
 
-                    (5): User friendly UI, I tried to Make it Simpler and Easy to use!!
+(5): User friendly UI, I tried to Make it Simpler and Easy to use!!
 
-                    (6): Responsive Layout, Compatible on any devices you use,
+(6): Responsive Layout, Compatible on any devices you use,
 
 
 ## 🤔 How to use :
