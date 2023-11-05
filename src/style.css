@@ -4,31 +4,14 @@
 
 @layer base {
   :root {
-    --primary-color: #3498db; /* Define your primary color here */
-    --secondary-color: #2ecc71; /* Define your secondary color here */
-    --background-color: #2c3e50; /* Define your background color here */
     color-scheme: dark;
   }
 
   body {
-    @apply bg-gray-900 text-gray-100 font-sans antialiased;
+    @apply bg-slate-800 text-slate-100;
   }
 
   #app {
-    @apply min-h-screen flex flex-col items-center justify-center;
-  }
-
-  .container {
-    @apply mx-auto p-4;
-  }
-
-  /* Example button styling */
-  .btn {
-    @apply px-4 py-2 bg-var(--primary-color) text-white rounded-md hover:bg-var(--secondary-color);
-  }
-
-  /* Smooth transition effects */
-  .transition {
-    @apply transition-all duration-300 ease-in-out;
+    @apply w-full h-full flex flex-col;
   }
 }
