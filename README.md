@@ -2,7 +2,7 @@
 
 Peer-2-peer screensharing and chat in the browser...
 
-## 💎 Introduction :
+## 👇🏻 Introduction :
 
 Backed by no server, runs entirely in the browser to chat and screenshare with a peer. It supports both mobile and desktop (screen capture may not be available on mobile). I Made this app Just to try out Vue 3.
 
