@@ -26,7 +26,7 @@ Backed by no server, runs entirely in the browser to chat and screenshare with a
 
 ## 🤔 How to use :
 
-The app is available [👉🏻here👈🏻](https://streamitup.in).
+The app is available [👉🏻here👈🏻](https://streamitup.vercel.app).
 
 Once you have opened it on your browser, you can create a room, choose a username and share the room's link with the person you'd like to chat/screenshare with.
 
