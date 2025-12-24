@@ -1,4 +1,4 @@
-# <center>[StreamitUP 🚀](https://streamitup.in)</center>
+# <center>[StreamitUP 🚀](https://streamitup.vercel.app)</center>
 
 Peer-2-peer screensharing and chat in the browser...
 
